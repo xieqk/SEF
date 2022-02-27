@@ -4,9 +4,11 @@ Implementation code of "Improving Person Re-identification with Multi-cue Simila
 ## updating ...
 
 - [x] config
-- [] config-files
-- [] data
-- [] engine
-- [] losses
+- [ ] config-files
+- [ ] data
+- [ ] engine
+- [ ] losses
 - [x] metrics
 - [x] models
+- [ ] tools
+- [ ] utils
